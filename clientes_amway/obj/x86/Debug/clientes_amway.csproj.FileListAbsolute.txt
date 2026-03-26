@@ -1,0 +1,22 @@
+O:\Visual Studio 2010\Projects\clientes_amway\clientes_amway\clientes_amway\bin\Debug\clientes_amway.exe.config
+O:\Visual Studio 2010\Projects\clientes_amway\clientes_amway\clientes_amway\bin\Debug\clientes_amway.exe
+O:\Visual Studio 2010\Projects\clientes_amway\clientes_amway\clientes_amway\bin\Debug\clientes_amway.pdb
+O:\Visual Studio 2010\Projects\clientes_amway\clientes_amway\clientes_amway\bin\Debug\itextsharp.dll
+O:\Visual Studio 2010\Projects\clientes_amway\clientes_amway\clientes_amway\bin\Debug\itextsharp.pdfa.dll
+O:\Visual Studio 2010\Projects\clientes_amway\clientes_amway\clientes_amway\bin\Debug\itextsharp.xtra.dll
+O:\Visual Studio 2010\Projects\clientes_amway\clientes_amway\clientes_amway\bin\Debug\MySql.Fabric.Plugin.dll
+O:\Visual Studio 2010\Projects\clientes_amway\clientes_amway\clientes_amway\bin\Debug\itextsharp.xml
+O:\Visual Studio 2010\Projects\clientes_amway\clientes_amway\clientes_amway\obj\x86\Debug\clientes_amway.csprojResolveAssemblyReference.cache
+O:\Visual Studio 2010\Projects\clientes_amway\clientes_amway\clientes_amway\obj\x86\Debug\clientes_amway.Login.resources
+O:\Visual Studio 2010\Projects\clientes_amway\clientes_amway\clientes_amway\obj\x86\Debug\clientes_amway.Properties.Resources.resources
+O:\Visual Studio 2010\Projects\clientes_amway\clientes_amway\clientes_amway\obj\x86\Debug\clientes_amway.csproj.GenerateResource.Cache
+O:\Visual Studio 2010\Projects\clientes_amway\clientes_amway\clientes_amway\obj\x86\Debug\clientes_amway.exe
+O:\Visual Studio 2010\Projects\clientes_amway\clientes_amway\clientes_amway\obj\x86\Debug\clientes_amway.pdb
+O:\Visual Studio 2010\Projects\clientes_amway\clientes_amway\clientes_amway\bin\Debug\MySql.Data.dll
+O:\Visual Studio 2010\Projects\clientes_amway\clientes_amway\clientes_amway\bin\Debug\MySql.Data.Entity.dll
+O:\Visual Studio 2010\Projects\clientes_amway\clientes_amway\clientes_amway\bin\Debug\MySql.Data.Entity.EF6.dll
+O:\Visual Studio 2010\Projects\clientes_amway\clientes_amway\clientes_amway\obj\x86\Debug\clientes_amway.AcercaDe.resources
+O:\Visual Studio 2010\Projects\clientes_amway\clientes_amway\clientes_amway\obj\x86\Debug\clientes_amway.MenuPrincipal.resources
+C:\Users\Roger A Gomez A\Documents\Visual Studio 2010\Projects\clientes_amway\clientes_amway\bin\Debug\clientes_amway.exe.config
+C:\Users\Roger A Gomez A\Documents\Visual Studio 2010\Projects\clientes_amway\clientes_amway\obj\x86\Debug\clientes_amway.exe
+C:\Users\Roger A Gomez A\Documents\Visual Studio 2010\Projects\clientes_amway\clientes_amway\obj\x86\Debug\clientes_amway.pdb
